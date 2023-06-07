@@ -71,3 +71,9 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Config file
+config.json
+
+# VSCode file history folder
+.history
